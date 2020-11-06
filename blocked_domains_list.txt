@@ -17,3 +17,5 @@ go2cloud.org
 jeansurroundwealthy.com
 
 ponderaura.com
+
+cdn5.anyclip.com
