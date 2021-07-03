@@ -21,3 +21,6 @@ ponderaura.com
 cdn5.anyclip.com
 
 external-preview.redd.it
+
+smartpremiumapp.com
+lp.smartpremiumapp.com
